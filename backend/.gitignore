@@ -1,0 +1,16 @@
+# Backend Go
+*.exe
+*.log
+bin/
+vendor/
+
+# Frontend
+node_modules/
+dist/
+build/
+
+# Configs sensíveis
+.env
+
+# OS
+.DS_Store
