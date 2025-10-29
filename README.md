@@ -1,5 +1,8 @@
 # 📝 OnceNote
 
+Check the working project on the following link:
+https://oncenote-front.web.app/ 
+
 OnceNote é uma aplicação fullstack desenvolvida com **Next.js** no frontend e **Node.js (Express)** no backend, projetada para criar, armazenar e visualizar notas de forma simples e eficiente.  
 O backend é hospedado no **Google Cloud Run**, enquanto o frontend é distribuído pelo **Firebase Hosting**.
 
